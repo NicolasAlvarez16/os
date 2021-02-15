@@ -5,6 +5,3 @@ Learning how Operating Systems works using C
 - Revising C Language
 - C Project (Revisign C contents)
 - Processes
-  .
-  .
-  .
